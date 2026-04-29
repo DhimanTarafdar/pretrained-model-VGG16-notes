@@ -7,7 +7,7 @@ Here, I am just trying to learn and understand the VGG16 model.
 
 I created this notebook to explore how VGG16 works and to build a basic idea about CNN architectures.
 
-## 🎯 Purpose
+## Purpose
 
 * To understand the structure of VGG16
 * To learn how pre-trained models work
