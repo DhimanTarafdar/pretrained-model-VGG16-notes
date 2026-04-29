@@ -25,14 +25,7 @@ In this note, I tried to cover some important parts of VGG16:
 * Concept of deep networks
 * Basic idea of transfer learning
 
-## ⚙️ What I Did in Code
-
-* Loaded the VGG16 model
-* Checked model summary
-* Explored layers and structure
-* Tried to understand how input flows through the network
-
-## 💡 My Learning
+## My Learning
 
 While working on this, I understood:
 
