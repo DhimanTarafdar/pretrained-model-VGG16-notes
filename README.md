@@ -1,6 +1,6 @@
 # VGG16 Notes
 
-## 📌 About This Note
+## About This Note
 
 This is not a project.
 Here, I am just trying to learn and understand the VGG16 model.
