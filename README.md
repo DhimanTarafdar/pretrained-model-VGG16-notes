@@ -34,7 +34,6 @@ While working on this, I understood:
 * CNN is very powerful for image-related tasks
 * Understanding architecture is very important before building projects
 
-## 📌 Final Thought
 
 This notebook is just a learning step.
 I am still exploring and trying to understand deep learning concepts more clearly.
