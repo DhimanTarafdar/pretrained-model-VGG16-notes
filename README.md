@@ -14,7 +14,7 @@ I created this notebook to explore how VGG16 works and to build a basic idea abo
 * To get a basic idea of transfer learning
 * To explore how CNN processes image data
 
-## 🧠 What I Covered
+## What I Covered
 
 In this note, I tried to cover some important parts of VGG16:
 
